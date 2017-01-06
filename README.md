@@ -24,3 +24,8 @@ puts table.to_s
   - [ ] Buy ingredients
   - [ ] Cook recipe
 - [ ] Sleep
+
+
+
+[Link to a header](#awesome-section)
+[Link to a file](docs/readme)
