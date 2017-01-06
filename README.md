@@ -17,3 +17,10 @@ puts table.to_s
 ```
 
 ![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+
+- [ ] Be awesome
+- [ ] Prepare dinner
+  - [ ] Research recipe
+  - [ ] Buy ingredients
+  - [ ] Cook recipe
+- [ ] Sleep
