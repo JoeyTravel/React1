@@ -29,3 +29,7 @@ puts table.to_s
 
 [Link to a header](#awesome-section)
 [Link to a file](docs/readme)
+
+https://github.com/tiimgreen/github-cheat-sheet/pull/15
+https://github.com/tiimgreen/github-cheat-sheet/pull/15.diff
+https://github.com/tiimgreen/github-cheat-sheet/pull/15.patch
