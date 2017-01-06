@@ -1,5 +1,7 @@
 # React1
 
+:clap:
+
 ```ruby
 require 'tabbit'
 table = Tabbit.new('Name', 'Email')
